@@ -1,4 +1,4 @@
-# Push Notification for Mobile App Assignment
+# WIC3006 LUQMAN SAJJAD INDV ASSIGNMENT
 
 A new Flutter project.
 
