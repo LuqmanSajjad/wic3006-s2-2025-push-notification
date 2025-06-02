@@ -1,4 +1,4 @@
-# journal
+# Push Notification for Mobile App Assignment
 
 A new Flutter project.
 
