@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98181312947",
+    "project_id": "mobile-computing-c8b27",
+    "storage_bucket": "mobile-computing-c8b27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98181312947:android:07ce6a808b9b1261519bc6",
+        "android_client_info": {
+          "package_name": "com.example.journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8oxYAztMmVwk2sDEFLdauc6uX_9tyNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

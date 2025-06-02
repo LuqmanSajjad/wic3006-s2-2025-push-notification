@@ -1,0 +1,19 @@
+{
+  "city": "Kuala Lumpur",
+  "weeklyWeather": [
+    {"day": "Mon", "icon": "wb_sunny", "temp": 32},
+    {"day": "Tue", "icon": "cloud", "temp": 30},
+    {"day": "Wed", "icon": "wb_cloudy", "temp": 29},
+    {"day": "Thu", "icon": "wb_sunny", "temp": 33},
+    {"day": "Fri", "icon": "grain", "temp": 28},
+    {"day": "Sat", "icon": "wb_sunny", "temp": 34},
+    {"day": "Sun", "icon": "wb_cloudy", "temp": 31}
+  ],
+  "dailyWeather": {
+    "morning":   {"weather": "Sunny", "temp": 27, "icon": "wb_sunny"},
+    "noon":      {"weather": "Sunny", "temp": 32, "icon": "wb_sunny"},
+    "afternoon": {"weather": "Cloudy", "temp": 31, "icon": "wb_cloudy"},
+    "evening":   {"weather": "Rainy", "temp": 27, "icon": "grain"},
+    "night":     {"weather": "Clear", "temp": 25, "icon": "nights_stay"}
+  }
+}
